@@ -1,0 +1,261 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+li {
+  list-style-type: none;
+}
+.orange {
+  width: 85%;
+  height: auto;
+}
+.container {
+  width: 65%;
+}
+.logo {
+  margin-top: 5px;
+  display: block;
+  width: 35%;
+  height: 100%;
+}
+.autontification__button {
+  outline: none;
+  background-color: #f9b62a;
+  border-radius: 10px;
+  border-width: 1px;
+  width: auto;
+}
+.autontification__busket {
+  border: none;
+  background-color: white;
+  outline: none;
+}
+.autontification {
+  height: 100%;
+  font-size: 1.5vw;
+}
+.menu {
+  margin-top: 20px;
+}
+.content {
+  background-color: #f9b62a;
+}
+.content ul {
+  margin-bottom: 0;
+}
+.menu a {
+  color: #000000;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 1.5vw;
+}
+.yourTarget {
+  width: 85%;
+  background-color: white;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.yourTarget p {
+  text-align: start;
+  font-size: 18px;
+}
+.yourTarget__photo {
+  width: 100%;
+  height: auto;
+}
+.ff {
+  padding-right: 0;
+  position: relative;
+}
+.yourTarget__text p,
+.aboutUs p {
+  font-size: 1.5vw;
+}
+.aboutUs {
+  width: 85%;
+  background-color: white;
+  margin-top: 50px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.aboutUs__photo {
+  width: 100%;
+  height: auto;
+}
+.container__choice {
+  width: 85%;
+}
+.choice {
+  margin-top: 30px;
+}
+.choice h2 {
+  font-size: 2.25vw;
+}
+.choice h3 {
+  font-size: 1.5vw;
+  text-align: end;
+}
+.choice h2 {
+  text-align: end;
+}
+.container__choice a {
+  color: #f9b62a;
+  background-color: #363636;
+}
+.mainGenres__text {
+  background-color: white;
+}
+.container__mainGenres h2 {
+  font-size: 2.2vw;
+  text-align: start;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+.container__mainGenres h3 {
+  text-align: start;
+  font-size: 1.5vw;
+  margin-top: 25px;
+  font-weight: normal;
+}
+.container__mainGenres {
+  width: 85%;
+  background-color: white;
+  padding-top: 30px;
+}
+.rules li {
+  text-align: start;
+}
+ul {
+  padding-right: 0;
+  padding-left: 0;
+}
+.rules {
+  margin-top: 40px;
+}
+.rules h2 {
+  font-size: 2.2vw;
+}
+.rules li {
+  font-size: 1.5vw;
+}
+.rules ul {
+  padding-bottom: 30px;
+}
+.contacts {
+  background-color: #363636;
+  color: #fff;
+  text-align: center;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+.contacts h2 {
+  font-size: 2.2vw;
+  margin-bottom: 20px;
+}
+.contacts h3 {
+  font-size: 1.5vw;
+}
+footer {
+  background-color: #f9b62a;
+  text-align: center;
+}
+.footer__img {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  height: 60px;
+  width: auto;
+}
+.photographers__head {
+  padding-top: 30px;
+  width: 85%;
+  background-color: white;
+}
+.photographers__head h2 {
+  font-size: 1.5vmax;
+  text-align: justify;
+  font-weight: 400;
+  padding-right: 10px;
+  padding-left: 10px;
+  line-height: 1.5;
+  padding-bottom: 20px;
+}
+.NikitaBezrodnov {
+  margin-top: 25px;
+  padding-bottom: 10px;
+}
+.NikitaBezrodnov img,
+.AllaMirnaya img {
+  width: 100%;
+  height: auto;
+}
+.Nikita__button {
+  text-align: center;
+}
+.Nikita__about h2 {
+  font-size: 2.2vmax;
+  background-color: white;
+  display: inline;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 20px;
+  margin-bottom: 15px;
+}
+.Nikita__about h3 {
+  font-size: 1.5vmax;
+  padding-top: 20px;
+  line-height: 1.5;
+}
+.Nikita__button button {
+  border-radius: 15px;
+  padding-right: 25px;
+  padding-left: 25px;
+  background-color: #363636;
+  color: #f9b62a;
+}
+.Nikita__button {
+  margin-top: 10px;
+}
+.NikitaPortfolio img,
+.AllaPortfolio img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 30px;
+  margin-right: 50px;
+}
+.NikitaPortfolio,
+.AllaPortfolio {
+  width: 85%;
+  background-color: white;
+}
+.AllaMirnaya {
+  margin-top: 25px;
+}
+.NikitaPortfolio h2,
+.AllaPortfolio h2 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #363636;
+  font-weight: bold;
+}
+/*Контакты*/
+.contacts_str {
+  background: #ffffff url(../img/cont.png) center bottom no-repeat;
+  background-size: cover;
+  background-color: #424142;
+  color: #f7b62c;
+}
+.contacts_str h2 {
+  margin-top: 15pt;
+  margin-bottom: 15pt;
+}
+.contacts_str p {
+  margin-bottom: 10pt;
+  margin-top: 10pt;
+}
+.contacts_str-link {
+  display: inline-block;
+  color: #f1a90e;
+  border-bottom: none dotted #f1a90e;
+}
+.contacts_str-link:hover {
+  color: #f7cb6e;
+}

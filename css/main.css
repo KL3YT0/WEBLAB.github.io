@@ -17,21 +17,25 @@ li
 }
 .logo
 {
+	margin-top: 5px;
 	display: block;
 	width: 35%;
 	height: 100%;
 }
 .autontification__button
 {
+	outline: none;
 	background-color: #f9b62a;
 	border-radius: 10px;
 	border-width: 1px;
 	width:auto;
+	
 }
 .autontification__busket
 {
 	border:none;
 	background-color: white;
+	outline: none;
 }
 .autontification
 {
@@ -56,11 +60,6 @@ li
 	padding-top: 8px;
 	padding-bottom: 8px;
 	font-size: 1.5vw;
-	
-}
-.menu li a
-{
-	color: black;
 }
 .yourTarget
 {
@@ -203,6 +202,8 @@ footer
 }
 .footer__img
 {
+	margin-top: 5px;
+	margin-bottom: 5px;
 	height: 60px;
 	width:auto;
 }
@@ -263,6 +264,7 @@ footer
 }
 .Nikita__button
 {
+
 	margin-top: 10px;
 	
 }
@@ -290,3 +292,8 @@ footer
 	color: #363636;
 	font-weight: 	bold;
 }
+
+/*Контакты*/
+
+
+
